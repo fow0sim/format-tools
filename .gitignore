@@ -1,0 +1,5 @@
+*.o
+src/c/fix2csv/fix2csv
+src/c/ldif2csv/ldif2csv
+src/c/csv2nv/csv2nv
+src/c/fdump/fdump
